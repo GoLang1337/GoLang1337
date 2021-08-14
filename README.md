@@ -23,6 +23,4 @@
 ![CSS](https://img.shields.io/badge/-css-264de4?&style=for-the-badge&logo=css3&logoColor=white)
 ![Javascript](https://img.shields.io/badge/-javascript-CFB402?style=for-the-badge&logo=javascript&logoColor=ffff3f)
 ![Python](https://img.shields.io/badge/-python-306998?style=for-the-badge&logo=python&logoColor=FFE873)
-![GoLang](https://img.shields.io/badge/-GOLANG-61DAFB?logo=go&logoColor=white&style=for-the-badge)
-![Rust](https://img.shields.io/badge/-RUST-fc2c03?logo=rust&logoColor=white&style=for-the-badge)
 ![LUA](https://img.shields.io/badge/-LUA-0324fc?logo=lua&logoColor=white&style=for-the-badge)
