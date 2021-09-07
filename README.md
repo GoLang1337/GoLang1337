@@ -15,12 +15,5 @@
 <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoLang1337&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000" />
 </p>
   
- # ⌨️ Languages
+ # ⌨️ Main Language
 ![C++](https://img.shields.io/badge/-C%2B%2B-283593?style=for-the-badge&logo=c%2B%2B)
-![C#](https://img.shields.io/badge/-CSHARP-5e03fc?logo=csharp&logoColor=white&style=for-the-badge)
-![PHP](https://img.shields.io/badge/-PHP-8403fc?logo=php&logoColor=white&style=for-the-badge)
-![HTML](https://img.shields.io/badge/-html-e34c26?&style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-css-264de4?&style=for-the-badge&logo=css3&logoColor=white)
-![Javascript](https://img.shields.io/badge/-javascript-CFB402?style=for-the-badge&logo=javascript&logoColor=ffff3f)
-![Python](https://img.shields.io/badge/-python-306998?style=for-the-badge&logo=python&logoColor=FFE873)
-![LUA](https://img.shields.io/badge/-LUA-0324fc?logo=lua&logoColor=white&style=for-the-badge)
